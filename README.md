@@ -3,6 +3,9 @@ This is the OpenChain Curriculum for Argentina
 
 The purpose behind the material would be to provide additional help to those located in Argentina with interest in open source compliance in a possible early adoption of the OpenChain Specification, by adding an “interchangeable or removable slide” to the FOSS Training Reference Slides for the OpenChain Specification. Chapter 1: What is Intellectual Property?, (Slide 8 only). The “interchangeable or removable slide” would be accompanied by an additional chart which describes general aspects about US Copyright Law and Argentina Copyright Law to facilitate and to promote the mentioned adoption while focusing in the similarities of both regimes instead of their possible differences due to the legal systems. 
 
+The specific slide that this localization is addressing can be found in the English (US Law) original deck here:
+https://github.com/OpenChain-Project/curriculum/raw/master/slides/openchain-curriculum-for-1-2-eight-chapter.pptx
+
 a) **Does the "Comparative Chart" (US- Argentina) constitutes a "final version"? **
 
 No, it does not. The comparative chart (US- Argentina) already sent constitutes only an expression in "draft" of an idea that I´ve prepared being a non-US attorney, so it would be much appreciated if US-attorneys from the list can review it. The comparative´s draft should contain some interested "key concept" approved by the list members, that someone being located in Argentina (or any other jurisdiction) probably be interested to know when reviewing the potential adoption of the Open Chain Specification.
